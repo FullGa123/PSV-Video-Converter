@@ -3,8 +3,8 @@
 Dedicated video converter for PS Vita  
 Focused on maximum playback compatibility and efficient file size optimization.
 
-This project uses FFmpeg.
-FFmpeg is licensed under LGPL/GPL.
+# This project uses FFmpeg. 
+FFmpeg is licensed under LGPL/GPL. 
 https://ffmpeg.org/
 
 ## 🇺🇸 English (ENG)
