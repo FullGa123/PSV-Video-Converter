@@ -22,7 +22,7 @@ Designed to ensure stable playback compatibility while minimizing file size.
 1. Place your video files (.mp4 / .mov / .avi / .mkv) in the same folder as the program.
 2. Run vita converse.bat
 3. The tool will automatically convert all supported files.
-4. Converted videos will be stored in:vita_converter
+4. Converted videos will be stored in "vita_converter"
 
 ## 🇹🇭 ภาษาไทย (TH)
 
@@ -39,6 +39,6 @@ Designed to ensure stable playback compatibility while minimizing file size.
 1. นำไฟล์วิดีโอ (.mp4 / .mov / .avi / .mkv) ไปไว้ในโฟลเดอร์เดียวกับโปรแกรม
 2. รันไฟล์ vita converse.bat
 3. โปรแกรมจะทำการแปลงไฟล์ทั้งหมดที่รองรับ
-4. ไฟล์ที่แปลงเสร็จจะถูกเก็บไว้ในโฟลเดอร์:vita_converter
+4. ไฟล์ที่แปลงเสร็จจะถูกเก็บไว้ในโฟลเดอร์ "vita_converter"
 
 
