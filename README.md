@@ -22,7 +22,8 @@ Designed to ensure stable playback compatibility while minimizing file size.
 1. Place your video files (.mp4 / .mov / .avi / .mkv) in the same folder as the program.
 2. Run vita converse.bat
 3. Select your encoder.
-4. Converted videos will be stored in "vita_converter"
+4. Select the resolution (960x544 / 720p).
+5. Converted videos will be stored in "vita_converter"
 
 Manual encoder selection is used for stability and compatibility.
 If unsure, choose libx264.
@@ -42,7 +43,8 @@ If unsure, choose libx264.
 1. นำไฟล์วิดีโอ (.mp4 / .mov / .avi / .mkv) ไปไว้ในโฟลเดอร์เดียวกับโปรแกรม
 2. รันไฟล์ vita converse.bat
 3. เลือก encoder ที่ต้องการ
-4. ไฟล์ที่แปลงเสร็จจะถูกเก็บไว้ในโฟลเดอร์ "vita_converter"
+4. เลือกความละเอืยด (960x544 / 720p)
+5. ไฟล์ที่แปลงเสร็จจะถูกเก็บไว้ในโฟลเดอร์ "vita_converter"
 
 ระบบไม่มีการตรวจจับอัตโนมัติ
 หากไม่แน่ใจ ให้เลือก "libx264"
